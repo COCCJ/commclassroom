@@ -3,3 +3,4 @@ hello Manu km from COC
 Hello Manu checking 4 commit
 Checking 5th Commit
 Developer is makingcode conflicts. 
+Example line for Merge Conflicts
